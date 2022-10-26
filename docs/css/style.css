@@ -1,0 +1,23 @@
+/* reset */
+.navbar > ul {
+    list-style-type: none;
+    margin: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+/* layout */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar > ul {
+    display: flex;
+    gap: 1rem;
+}
+.container {
+    max-width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+}
