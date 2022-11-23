@@ -1,10 +1,14 @@
 /* reset */
+body {
+    background-color: rgb(198, 216, 216);
+    color: rgb(24, 43, 88);
+}
 .navbar > ul {
     list-style-type: none;
     margin: 0;
 }
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
 }
 /* layout */
