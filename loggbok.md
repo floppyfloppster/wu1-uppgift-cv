@@ -23,7 +23,7 @@ Skriv en kort planering först.
 
 Vad har gått bra med HTML/CSS/MEDIA. Det har gått bra med att skapa webbsidans grund och att ändra färger.
 Vad behöver/vill du lära dig mer om utifrån dessa delar. Jag vill lära mig hur man gör sidan mer komplex och om det finns mer man kan göra med css.
-Hur gick validering och tester. Skriv om fel, varningar och saker du ändrat på.Det gick ganska bra, några saker jag behövde ändra men inget som jag hängde upp mig på.
+Hur gick validering och tester. Skriv om fel, varningar och saker du ändrat på.Det gick ganska bra, några saker jag behövde ändra men inget som jag hängde upp mig på men i helhet gick allt bra.
 
 ## Planering
 
