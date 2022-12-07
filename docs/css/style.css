@@ -1,7 +1,7 @@
 /* reset */
 body {
-    background-color: rgb(198, 216, 216);
-    color: rgb(24, 43, 88);
+    background-color: rgb(67, 108, 136);
+    color: rgb(255, 255, 255);
 }
 .navbar > ul {
     list-style-type: none;
@@ -27,8 +27,8 @@ img {
 }
 :root {
     --color-light: #f0f0f0;
-    --color-dark: #b1cbcb  ;
-    --color-primary: #32d0ec;
+    --color-dark: #274561  ;
+    --color-primary: #256a76;
     --color-secondary:#4a0080;
 }
 .btn {
